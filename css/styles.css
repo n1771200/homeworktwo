@@ -1,0 +1,18 @@
+﻿
+/*  Other styles for making things look pretty ==================== */
+
+/* Fonts
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+figure, body {
+    margin: 0;
+    padding: 0;
+    line-height: 1.4;
+
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #eee;
+}
